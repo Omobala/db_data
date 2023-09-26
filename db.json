@@ -1,0 +1,42 @@
+{
+    "volunteers": [
+      {
+        "id": 1,
+        "fname": "kabiru bala",
+        "email": "kabirubala8@gmail.com",
+        "about": "i just want to be a volunteer"
+      },
+      {
+        "id": 2,
+        "fname": "kabiru bala",
+        "email": "kabirubala8@gmail.com",
+        "about": "i just want to be a volunteer"
+      }
+    ],
+    "donor": [
+      {
+        "id": 1,
+        "amount": 50,
+        "first_name": "janet",
+        "last_name": "doe",
+        "company": "",
+        "address": "13, shakiti street",
+        "address_two": "",
+        "city": "lagos island",
+        "state": "lagos",
+        "zip_code": "",
+        "phone": "08108701955",
+        "email": "kabirubala8@gmail.com",
+        "anonymous": "yes",
+        "note": "this is what i think"
+      }
+    ],
+    "blogs": [
+      {
+        "id": 1,
+        "title": "donate to me",
+        "comment": 3,
+        "body": "i am the body"
+      }
+    ]
+  }
