@@ -35,8 +35,8 @@
       {
         "id": 1,
         "title": "donate to me",
-        "comment": 3,
-        "body": "i am the body"
+        "body": "i am the body",
+        "image": "./images/boy-1139042__480"
       }
     ]
   }
